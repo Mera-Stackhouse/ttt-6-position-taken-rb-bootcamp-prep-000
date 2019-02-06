@@ -12,6 +12,6 @@ def position_taken?(board, index)
   end  
 end  
 
-puts position_taken?(board, 0)
+puts position_taken?(board, 1)
 
 
