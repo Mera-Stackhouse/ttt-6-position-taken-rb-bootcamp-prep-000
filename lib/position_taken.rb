@@ -12,7 +12,7 @@ def position_taken?(board, index)
   end  
 end  
 
-puts board[1]
-puts position_taken?(board, 1)
-
+#puts board[1]
+#puts position_taken?(board, 1)
+puts board[1] == "X"
 
