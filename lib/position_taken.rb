@@ -15,4 +15,4 @@ def position_taken?(board, index)
 end  
 
 
-position_taken?(board, 0)
+#position_taken?(board, 0)
