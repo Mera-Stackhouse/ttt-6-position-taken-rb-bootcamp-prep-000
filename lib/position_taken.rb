@@ -1,5 +1,5 @@
 # code your #position_taken? method here!
-#board = ["X", " "]
+ board = ["X", " ", " ", " ", " ", " ", " ", " ", "O"]
 
 
 def position_taken?(board, index)
@@ -14,5 +14,5 @@ end
 
 #puts board[1]
 #puts position_taken?(board, 1)
-#puts board[0] == "X"
+puts board[8] == "O"
 
